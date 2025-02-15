@@ -8,4 +8,7 @@ authors = ["yesseruser <yesseruseryt@gmail.com>"]
 keywords = ["hello", "hello-world"]
 categories = ["command-line-interface"]
 
+homepage = "https://github.com/yesseruser/hello-sayer"
+repository = "https://github.com/yesseruser/hello-sayer"
+
 [dependencies]
