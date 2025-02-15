@@ -4,5 +4,8 @@ version = "1.0.0"
 edition = "2021"
 description = "Rust library to generate and print hello world strings"
 license = "LGPL-3.0"
+authors = ["yesseruser <yesseruseryt@gmail.com>"]
+keywords = ["hello", "hello-world"]
+categories = ["command-line-interface"]
 
 [dependencies]
